@@ -1,5 +1,5 @@
 {
-  "name": "ntwitter",
+  "name": "ntwitter-kanikar",
   "version": "0.5.1",
   "description": "Asynchronous Twitter REST/stream/search client API for node.js.",
   "keywords": [
